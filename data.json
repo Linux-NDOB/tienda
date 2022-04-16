@@ -1,0 +1,281 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Nerte",
+      "email": "q@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "username": "Dunc",
+      "email": "dgoulbourne1@bigcartel.com",
+      "password": "19bHs8e"
+    },
+    {
+      "id": 3,
+      "username": "Terri-jo",
+      "email": "thellin2@google.com.hk",
+      "password": "AQlHPPCV7hJ"
+    },
+    {
+      "id": 4,
+      "username": "Trudie",
+      "email": "tjachimak3@twitter.com",
+      "password": "KpvVIaH"
+    },
+    {
+      "id": 5,
+      "username": "Prescott",
+      "email": "pgudyer4@mail.ru",
+      "password": "HutMb0KV"
+    },
+    {
+      "id": 6,
+      "username": "Yoshi",
+      "email": "yadolphine5@vkontakte.ru",
+      "password": "kSgGF4J"
+    },
+    {
+      "id": 7,
+      "username": "Drona",
+      "email": "dshewon6@google.co.jp",
+      "password": "vrZ245qde0"
+    },
+    {
+      "id": 8,
+      "username": "Neville",
+      "email": "noneary7@craigslist.org",
+      "password": "9w2KhRshb0T"
+    },
+    {
+      "id": 9,
+      "username": "Collen",
+      "email": "cdurnall8@etsy.com",
+      "password": "rH7PW8y23m"
+    },
+    {
+      "id": 10,
+      "username": "Darrin",
+      "email": "ddoelle9@printfriendly.com",
+      "password": "rrF9bZbFf"
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "sirastolf",
+      "id": 11
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "sirastolf",
+      "id": 12
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "gayardo",
+      "id": 13
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "gayardo",
+      "id": 14
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "marianamarina",
+      "id": 15
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "marianamarina",
+      "id": 16
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "marianamarina",
+      "id": 17
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "marianamarina",
+      "id": 18
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "1234567",
+      "id": 19
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "1234567",
+      "id": 20
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "56789012",
+      "id": 21
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "56789012",
+      "id": 22
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "123456789",
+      "id": 23
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "username": "123456789",
+      "id": 24
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "username": "root",
+      "id": 25
+    },
+    {
+      "email": "q@gmail.com",
+      "password": "123456",
+      "username": "root",
+      "id": 26
+    },
+    {
+      "email": "root@gmail.com",
+      "password": "root",
+      "username": "root",
+      "id": 27
+    },
+    {
+      "email": "root@gmail.com",
+      "password": "root",
+      "username": "root",
+      "id": 28
+    },
+    {
+      "email": "root@gmail.com",
+      "password": "root",
+      "username": "root",
+      "id": 29
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Hamburgesa Sencilla",
+      "url": "https://homeburgers.com/uploads/product/054bb48d12d44687b47c00b41ab31097/hs5.jpg",
+      "price": "$12.7",
+      "amount": 0
+    },
+    {
+      "id": 2,
+      "name": "HS + Queso + Tocineta",
+      "url": "https://homeburgers.com/uploads/product/c79d91a6fd0f4713868b4b2fe2b655d0/h_sencilla_558x558px.jpg",
+      "price": "$18.9",
+      "amount": 0
+    },
+    {
+      "id": 3,
+      "name": "Vaso 1 Sabor",
+      "url": "https://homeburgers.com/uploads/product/87c43032299f477db070d880a23f369b/helado-vaso-1-bola-558x558px.jpg",
+      "price": "4.9",
+      "amount": 0
+    },
+    {
+      "id": 4,
+      "name": "Pote 1/2 Litro 2 Sabores",
+      "url": "https://homeburgers.com/uploads/product/fecba268f475418a91b50f60bd99fc41/helado-1_2-litro-558x558px.jpg",
+      "price": "17.9",
+      "amount": 0
+    },
+    {
+      "id": 5,
+      "name": "Salsa de Queso",
+      "url": "https://homeburgers.com/uploads/product/10ba2d8f58d24ea0a83d7e182ccfe57a/home-burgers3077-558-px.jpg",
+      "price": "4",
+      "amount": 0
+    },
+    {
+      "id": 6,
+      "name": "Papas Malla",
+      "url": "https://homeburgers.com/uploads/product/8adbb57e541a4f3f845916b3ecf7c219/puntos-pag-web_mesa-de-trabajo-1-copia.jpg",
+      "price": "8.5",
+      "amount": 0
+    },
+    {
+      "id": 7,
+      "name": "Chesse Tots",
+      "url": "https://homeburgers.com/uploads/product/cea524b3e11c48a9802faa1c3377535c/Cheese_tots_558x558px.jpg",
+      "price": "8.9",
+      "amount": 0
+    },
+    {
+      "id": 8,
+      "name": "Limonada Rosada",
+      "url": "https://homeburgers.com/uploads/product/bd36cf225b964cf2bccba9c712af36a0/Bebidas_558x558px_Mesa_de_trabajo_1_copia_7.jpg",
+      "price": "5.5",
+      "amount": 0
+    },
+    {
+      "id": 9,
+      "name": "Kombucha",
+      "url": "https://homeburgers.com/uploads/product/48d78a84fda94ca99f11548b99d03ad8/home-burgers3073jpg-558-px.jpg",
+      "price": "6.9",
+      "amount": 0
+    },
+    {
+      "id": 10,
+      "name": "Limonada",
+      "url": "https://homeburgers.com/uploads/product/f809d6ab96714c72835054f36e758aab/Bebidas_558x558px_Mesa_de_trabajo_1_copia_6.jpg",
+      "price": "5.5",
+      "amount": 0
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "url": "https://homeburgers.com/uploads/product/054bb48d12d44687b47c00b41ab31097/hs5.jpg",
+      "names": "Hamburgesa Sencilla",
+      "price": "$12.7",
+      "amount": 4
+    }
+  ],
+  "root": [
+    {
+      "id": 1,
+      "username": "root",
+      "email": "root@gmail.com",
+      "password": "root"
+    }
+  ]
+}

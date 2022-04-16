@@ -1,30 +1,32 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view/>
+  <div class="container">
+    <nav class="black">
+      <div class="nav-wrapper">
+         <a href="#!" class="brand-logo"><i class="material-icons">bolt</i>Fast Way</a>
+        <ul id="nav-mobile" class="right hide-on-med-and-down">
+          <li>
+            <a href="#"><router-link to="/">Home</router-link></a>
+          </li>
+          <li>
+            <a href="#"><router-link to="/productos">Productos</router-link> </a>
+          </li>
+          <li>
+            <a href="#"><router-link to="/registrarse">Login</router-link> </a>
+          </li>
+          <li>
+            <a href="#"><router-link to="/adminlogin">Admin</router-link> </a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <router-view></router-view>
+  </div>
 </template>
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
+<style lang="scss" scoped>
 
-nav {
-  padding: 30px;
 
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+.brand-logo{
+  margin-left: 1em;
 }
 </style>
